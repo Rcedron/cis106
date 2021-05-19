@@ -18,4 +18,4 @@
 
 ## Example of completed setup 
 
-![example]
+![example](../images/vmset.PNG) 
